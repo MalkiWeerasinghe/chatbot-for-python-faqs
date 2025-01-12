@@ -1,0 +1,97 @@
+{
+    "faqs": [
+        {
+            "question": "What is Python?",
+            "answer": "Python is a high-level programming language known for its simplicity."
+        },
+        {
+            "question": "How do I install Python?",
+            "answer": "Download Python from python.org and follow the instructions."
+        },
+        {
+            "question": "How do I check if Python is installed on my computer?",
+            "answer": "Open a command prompt or terminal and type 'python --version' or 'python3 --version'."
+        },
+        {
+            "question": "How do I install Python on Windows?",
+            "answer": "Download the installer from python.org, run it, and follow the instructions. Make sure to check the box to add Python to your PATH."
+        },
+        {
+            "question": "How do I install Python on macOS?",
+            "answer": "Python is pre-installed on macOS. You can also download the installer from python.org and follow the instructions."
+        },
+        {
+            "question": "How do I install Python on Linux?",
+            "answer": "Use your package manager, for example, 'sudo apt-get install python3' for Debian-based systems or 'sudo yum install python3' for Red Hat-based systems."
+        },
+        {
+            "question": "How do I install a specific version of Python?",
+            "answer": "Download the installer for the specific version from python.org and follow the instructions, or use a version manager like pyenv."
+        },
+        {
+            "question": "What are Python's key features?",
+            "answer": "Python has features like easy-to-read syntax, dynamic typing, and a large standard library."
+        },
+        {
+            "question": "What is PIP?",
+            "answer": "PIP is a package manager for Python packages, or modules if you like."
+        },
+        {
+            "question": "How do I create a virtual environment in Python?",
+            "answer": "Use the command 'python -m venv myenv' to create a virtual environment."
+        },
+        {
+            "question": "What is a Python module?",
+            "answer": "A module is a file containing Python definitions and statements."
+        },
+        {
+            "question": "How do I read a file in Python?",
+            "answer": "Use the 'open' function to open a file and 'read' method to read its contents."
+        },
+        {
+            "question": "What is a list in Python?",
+            "answer": "A list is a collection which is ordered and changeable. In Python, lists are written with square brackets."
+        },
+        {
+            "question": "How do I handle exceptions in Python?",
+            "answer": "Use the 'try' and 'except' blocks to handle exceptions."
+        },
+        {
+            "question": "What is a dictionary in Python?",
+            "answer": "A dictionary is a collection which is unordered, changeable, and indexed. In Python, dictionaries are written with curly brackets."
+        },
+        {
+            "question": "How do I write a function in Python?",
+            "answer": "Use the 'def' keyword to define a function, followed by the function name and parentheses."
+        },
+        {
+            "question": "What is a function in Python?",
+            "answer": "A function in Python is a reusable block of code that performs a specific task. It is defined using the `def` keyword."
+        },
+        {
+            "question": "What is the difference between arguments and parameters in Python?",
+            "answer": "Parameters are the variables listed in the function definition, while arguments are the values passed to the function when it is called."
+        },
+
+        {
+            "question": "What is a class in Python?",
+            "answer": "A class is a blueprint for creating objects. It defines a set of attributes and methods that the objects created from the class can use."
+        },
+        {
+            "question": "What are arguments in Python functions?",
+            "answer": "Arguments are the values you pass into a function when calling it. They are used by the function to perform operations."
+        },
+        {
+            "question": "How do I import a module in Python?",
+            "answer": "Use the 'import' statement to import a module."
+        },
+        {
+            "question": "What is a lambda function in Python?",
+            "answer": "A lambda function is a small anonymous function defined with the 'lambda' keyword."
+        },
+        {
+            "question": "How do I install a package using PIP?",
+            "answer": "Use the command 'pip install package_name' to install a package."
+        }
+    ]
+}
